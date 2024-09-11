@@ -1,0 +1,6 @@
+{
+    "build": {
+        "path": "./build.js",
+        "function": "main"
+    }
+}

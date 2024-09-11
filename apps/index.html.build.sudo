@@ -1,0 +1,13 @@
+Get the index.html
+Make changes to it:
+- Fix meta tags:
+- - Use the correct meta tags for the apps.json>metaTags and use the default tags if they are not present.
+- Add the apps:
+- - Add the apps links
+- - Add the apps descriptions
+- - Add the apps screenshots
+- - Add the apps download links
+- - Add the apps versions
+- - Add the apps authors
+- Add the footer
+Append it to /apps-build/index.html
